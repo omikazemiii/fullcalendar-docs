@@ -9,3 +9,6 @@ gem 'kramdown'
 gem 'rouge'
 gem 'html-proofer'
 gem 'json'
+
+gem 'rexml', '~> 3.4'
+gem 'webrick', '~> 1.9'
